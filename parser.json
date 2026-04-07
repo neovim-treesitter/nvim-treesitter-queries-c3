@@ -1,8 +1,9 @@
 {
-  "lang": "c3",
-  "location": null,
+  "generate": null,
+  "generate_from_json": null,
   "url": "https://github.com/c3lang/tree-sitter-c3",
   "semver": false,
-  "min_version": null,
-  "max_version": null
+  "lang": "c3",
+  "location": null,
+  "parser_version": "78e2ae9cff29ef8ca6666006abe80f1236d42996"
 }
