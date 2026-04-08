@@ -1,6 +1,6 @@
 {
-  "parser_version": "78e2ae9cff29ef8ca6666006abe80f1236d42996",
+  "lang": "c3",
   "url": "https://github.com/c3lang/tree-sitter-c3",
   "semver": false,
-  "lang": "c3"
+  "parser_version": "78e2ae9cff29ef8ca6666006abe80f1236d42996"
 }
